@@ -1,0 +1,11 @@
+{
+  "name": "side_kick",
+  "version": "1.0.0",
+  "description": "this will be a side project with all the capability demo as api",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "satyam kaurav",
+  "license": "ISC"
+}
